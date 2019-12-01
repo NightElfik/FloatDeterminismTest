@@ -1,0 +1,16 @@
+# rubbish
+/backup
+*.png
+
+# .NET rubbish
+**/.vs/**
+*.suo
+*.vsmdi
+*.user
+
+bin/
+obj/
+
+# Windows rubbish
+Thumbs.db
+ehthumbs.db
